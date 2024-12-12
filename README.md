@@ -58,7 +58,7 @@ Open your browser and navigate to `http://localhost:3000` to see the application
 
 ## File Structure
 
-- **`src/components/ReverseOrderComponent.js`**: Contains the core React component.
+- **`src/components/ReverseComponent.js`**: Contains the core React component.
 - **`src/assets/`**: Contains image assets (avatar, menu icon, verification badge, etc.).
 - **`tailwind.config.js`**: Configuration for Tailwind CSS.
 
@@ -66,9 +66,3 @@ Open your browser and navigate to `http://localhost:3000` to see the application
 
 - To modify the colors or styles, edit the `tailwind.config.js` file or update the component's class names.
 - Replace the assets in the `src/assets` directory to use custom images.
-
-## Future Improvements
-
-- Add animations for a smoother transition during reordering.
-- Improve accessibility by adding ARIA attributes.
-- Add tests to ensure the component behaves as expected.
