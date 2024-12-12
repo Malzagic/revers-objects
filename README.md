@@ -4,7 +4,7 @@ This project demonstrates a React component that dynamically changes the order o
 
 ## Features
 
-- **Dynamic Element Reordering**: Click the "Reverse Order" button to rearrange the elements in reverse order.
+- **Dynamic Element Reordering**: Click the "Reverse" button to rearrange the elements in reverse order.
 - **Responsive Design**: The layout is styled using Tailwind CSS to ensure responsiveness.
 - **Gradient Text**: The text uses a gradient effect for modern visual appeal.
 - **Reusable Component**: The component is modular and reusable.
@@ -52,7 +52,7 @@ Open your browser and navigate to `http://localhost:3000` to see the application
 ## Usage
 
 - The component displays an avatar, descriptive text, and a menu icon.
-- Click the "Reverse Order" button to change the order of the elements from:
+- Click the "Reverse" button to change the order of the elements from:
   - **Default**: [Avatar > Text > Menu]
   - **Reversed**: [Menu > Text > Avatar]
 
